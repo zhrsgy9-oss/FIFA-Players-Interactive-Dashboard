@@ -50,7 +50,7 @@ The dashboard is published using **GitHub Pages**.
 
 Open the live dashboard:
 
-[**[View Interactive Dashboard](YOUR-GITHUB-PAGES-LINK)**
+[**(YOUR-GITHUB-PAGES-LINK)**
 ](https://zhrsgy9-oss.github.io/FIFA-Players-Interactive-Dashboard/)
 
 Alternatively, download or clone this repository and open `index.html` in a web browser. Keep the `charts` folder in the same directory as the main HTML file.
