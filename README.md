@@ -64,3 +64,11 @@ Alternatively, download or clone this repository and open `index.html` in a web 
 ## Author
 
 Created as a personal data analytics and visualization project using Python and Plotly.
+
+
+
+
+## FIFA Dashboard - Overview
+
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/952be1c6-6691-470a-a6dd-cb44e9b95c98" />
+
